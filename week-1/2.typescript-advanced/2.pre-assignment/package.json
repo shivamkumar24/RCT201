@@ -1,0 +1,16 @@
+{
+  "name": "2.pre-assignment",
+  "description": "1. Node project Setup\r 2. `tsc --init`\r 3. Installed Dependencies\r 4. Add Scripts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test1": "tsc src/1.ts",
+    "test2": "tsc src/2.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}

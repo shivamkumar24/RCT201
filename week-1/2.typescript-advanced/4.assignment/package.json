@@ -1,0 +1,19 @@
+{
+  "name": "4.assignment",
+  "version": "1.0.0",
+  "description": "1. Create an interface for an object",
+  "main": "index.js",
+  "scripts": {
+    "ts_1": "tsc src/1.ts",
+    "ts_2": "tsc src/2.ts",
+    "ts_3": "tsc src/3.ts",
+    "ts_4": "tsc src/4.ts",
+    "ts_5": "tsc src/5.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}

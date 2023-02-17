@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "content": "Learn Custom Hook",
+      "id": 4
+    },
+    {
+      "content": "Learn Typescript",
+      "id": 5
+    },
+    {
+      "content": "Learn Redux",
+      "id": 6
+    }
+  ]
+}

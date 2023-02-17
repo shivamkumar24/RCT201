@@ -1,0 +1,49 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Learn redux",
+      "status": "false"
+    },
+    {
+      "id": 2,
+      "title": "Learn Redux-Thunks",
+      "status": "false"
+    },
+    {
+      "title": "Learn TypeScript",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "Learn New Thins",
+      "status": false,
+      "id": 4
+    },
+    {
+      "title": "vjhggn",
+      "status": false,
+      "id": 5
+    },
+    {
+      "title": "Backwaash",
+      "status": false,
+      "id": 6
+    },
+    {
+      "title": "abra ka dabra",
+      "status": false,
+      "id": 7
+    },
+    {
+      "title": "learn",
+      "status": false,
+      "id": 8
+    },
+    {
+      "title": "new things",
+      "status": false,
+      "id": 9
+    }
+  ]
+}

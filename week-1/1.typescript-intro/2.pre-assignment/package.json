@@ -1,0 +1,22 @@
+{
+  "name": "2.pre-assignment",
+  "version": "1.0.0",
+  "description": "- Create a Node Project\r - Install `typescript` and `tsc`\r - Add Scripts to run the files.",
+  "main": "index.js",
+  "scripts": {
+    "test_1": "tsc src/1.ts",
+    "test_2": "tsc src/2.ts",
+    "test_3": "tsc src/3.ts",
+    "test_4": "tsc src/4.ts",
+    "test_5": "tsc src/5.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tsc": "^2.0.4"
+  },
+  "dependencies": {
+    "typescript": "^4.9.4"
+  }
+}

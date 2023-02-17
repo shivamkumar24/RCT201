@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "target": "ES6",     // it will set the output structure in ES6 instead of ES3
+    "outDir": "dist"    // it will set the output path, output file build in dist folder
+  },
+  "include": ["src/1.ts"],    // Include every file that need to run
+  "exclude": ["node-modules"]
+}

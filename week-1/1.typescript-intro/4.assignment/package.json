@@ -1,0 +1,20 @@
+{
+  "name": "4.assignment",
+  "version": "1.0.0",
+  "description": "- Create a Node Project\r - Install `typescript` and `tsc`\r - Add Scripts to run the file.",
+  "main": "index.js",
+  "scripts": {
+    "test1": "tsc src/1.ts",
+    "test2": "tsc src/2.ts",
+    "test3": "tsc src/3.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tsc": "^2.0.4"
+  },
+  "dependencies": {
+    "typescript": "^4.9.4"
+  }
+}
