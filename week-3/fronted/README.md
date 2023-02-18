@@ -1,5 +1,7 @@
 ##
 
+https://frontend-app-redux-typescript.vercel.app/
+
 1. Set up routing
 2. Set up Chakra UI
 3. Define the common types
